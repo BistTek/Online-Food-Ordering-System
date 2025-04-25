@@ -6,5 +6,5 @@ A PHP-based web application allows users to browse restaurants, order food onlin
 - User registration and login..
 - Browse the menu and add items to the cart..
 - Place orders and receive confirmation..
-- Admin panel for managing orders and menu items
+- Admin panel for managing orders and menu items..
 - Responsive design with HTML, CSS, and Bootstrap
